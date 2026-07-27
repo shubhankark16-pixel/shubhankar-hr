@@ -25,8 +25,8 @@ I am an HR Professional with experience in HR Operations, Employee Lifecycle Man
 - Employee Documentation
 - HR Policies
 - Excel
-- AI Tools
-- n8n Automation
+- ISO Audit 27001& 9001
+
 
 ## Purpose
 
